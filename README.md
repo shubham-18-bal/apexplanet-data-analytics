@@ -40,5 +40,5 @@ dashboards/
 ```
 
 ## Author
-Shubham
+Shubham Kumar Upadhyay
 MBA (Business Analytics)
