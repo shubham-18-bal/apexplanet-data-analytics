@@ -1,0 +1,39 @@
+# 📊 Power BI Sales Dashboard
+
+## 📌 Project Overview
+
+This project is an interactive Power BI dashboard created to analyze sales performance and generate meaningful business insights.
+
+## 🛠️ Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## 📊 Dashboard
+
+![Power BI Dashboard](images/dashboard.png)
+
+## 🔍 Key Analysis
+
+- Overall sales performance
+- Region-wise sales analysis
+- Monthly sales trends
+- Product/category performance
+- KPI analysis
+- Interactive filtering using slicers
+
+## 📁 Project Files
+
+- `dashboard/Sales_Dashboard.pbix` - Power BI dashboard file
+- `images/dashboard.png` - Dashboard screenshot
+
+## 💡 Key Insights
+
+The dashboard helps identify sales trends, high-performing regions, and areas that require business attention.
+
+## 👨‍💻 Author
+
+Shubham  
+MBA – Business Analytics
